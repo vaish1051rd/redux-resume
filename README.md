@@ -15,9 +15,9 @@ This is a web application that allows users to create a professional-looking res
 
 To install and run this application on your local machine, follow these steps:
 
-i. Clone this repository using `git clone https://github.com/Chirag-Berde/Resume-Builder`
+i. Clone this repository using `git clone https://github.com/Chirag-Berde/resume-builder`
 
-ii. Navigate to the project directory using `cd Resume-Builder`
+ii. Navigate to the project directory using `cd resume-builder`
 
 iii. Install dependencies using `npm install`
 
@@ -31,12 +31,12 @@ v. Open `http://localhost:3000` on your browser
     
 ## Usage
 
-To use this application simply begin filling out the form with your information. You can save your progress and come back to it later, and preview your resume at any time to see how it will look to potential employers. When you are ready, you can download your completed resume as a PDF or Word document, ready to share with recruiters and hiring managers.
+To use this application simply begin filling out the form with your information. You can save your progress and come back to it later, and preview your resume at any time to see how it will look to potential employers. When you are ready, you can download your completed resume as a PDF format, ready to share with recruiters and hiring managers.
 
 
 ## Contributors
 
-This project was created by Chirag berde as part of AlmaBetter Web 2.0 & 3.0 Enthusiast. Contributions are welcome! If you would like to contribute, please follow the standard Github workflow:
+This project was created by Chirag berde as part of AlmaBetter Web 2.0 & 3.0 Enthusiast. Contributions are  always welcome! If you would like to contribute, please follow the standard Github workflow:
 
 1. Fork this repository.
 2. Create a new branch with a descriptive name (`git checkout -b feature/my-new-feature`)
