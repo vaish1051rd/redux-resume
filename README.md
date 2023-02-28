@@ -8,7 +8,7 @@ This is a web application that allows users to create a professional-looking res
 - User-friendly form for entering personal details, work experience, education, skills, and more.
 - Option to upload a photo and choose from a range of templates for a unique look.
 - Material UI design for a modern and consistent look across all devices.
-- Preview and download completed resumes in PDF or Word document format.
+- Preview and download completed resumes in PDF format.
 
 
 ## Installation
