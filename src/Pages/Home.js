@@ -33,9 +33,10 @@ const Home = (props) => {
       <>
          <div className="home">
         <div className="home-templates-cont">
-          <h2 className="template-header-title">Templates</h2>
-          <p className="template-select-text">Select a template to get started</p>
-          
+          <h2 className="template-header-title">Create a Resume that stands out</h2>
+          <p className="template-select-text">Get started for Free</p>
+         
+
           <Stack
             sx={{
               width: "100%",
